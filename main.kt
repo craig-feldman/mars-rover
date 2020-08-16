@@ -53,7 +53,6 @@ fun Rover.move() {
     }
 }
 
-
 /*
  Reads the input from a file named 'input'.
 
